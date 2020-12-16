@@ -1,6 +1,6 @@
 <h1>Password Generator</h1>
 
-A random password is generated when a user uses the prompts to pick the cirtera to a password
+A random password is generated when a user uses the prompts to pick the criteria to a password.
 
 Functions:
 When a user clicks on "Generate Password" they will be propted with a series of questions.
