@@ -14,3 +14,5 @@ These questions include:
  If the user does not pick uppercase, numbers OR special characters, the user will be looped back through the prompts.
  
  When all parameters have been met, a random password that meets all the criteria that they entered will appear in the box. 
+ 
+ Technologies that were used: HTML, CSS and Javascript
